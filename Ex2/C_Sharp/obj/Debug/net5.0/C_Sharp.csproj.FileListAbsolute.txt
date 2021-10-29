@@ -1,0 +1,16 @@
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.exe
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.deps.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.runtimeconfig.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.runtimeconfig.dev.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\ref\C_Sharp.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\bin\Debug\net5.0\C_Sharp.pdb
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.csprojAssemblyReference.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.AssemblyInfoInputs.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.AssemblyInfo.cs
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.csproj.CoreCompileInputs.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\ref\C_Sharp.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.pdb
+D:\A_BaiTap\LapTrinhHeThong\Exercises\Ex2\C_Sharp\obj\Debug\net5.0\C_Sharp.genruntimeconfig.cache
