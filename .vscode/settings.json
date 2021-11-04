@@ -2,5 +2,8 @@
     "java.project.sourcePaths": [
         "Ex1",
         "Ex2/Java"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
