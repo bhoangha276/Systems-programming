@@ -6,25 +6,30 @@ namespace C_Sharp
     class Program
     {
 
-        public static string StringToHex(string hexstring)
+        public static void hex()
         {
-            StringBuilder sb = new StringBuilder();
-            foreach (char t in hexstring)
+            while (true)
             {
-                //Note: X for upper, x for lower case letters
-                sb.Append(Convert.ToInt32(t).ToString("x"));
+                Console.WriteLine("Chuyen ma hex(ESC de thoat): ");
+                int d = (int)Console.ReadKey().Key;
+                int value = 0;
+                if (d==(int)ConsoleKey.Escape)
+                {
+                    break;
+                }
+                else
+                {
+                    value = d;
+                    string hex = String.Format("0x{0:X}", value);
+                    string kq = hex.Remove(0, 2);
+                    Console.WriteLine("=>"+kq);
+                }
             }
-            return sb.ToString();
         }
 
         static void Main(string[] args)
         {
-            string a;
-            Console.Write("Nhap mot ki tu: ");
-            a = Console.ReadLine();
-
-            
-            Console.Write(StringToHex(a));
+            hex();
         }
     }
 }

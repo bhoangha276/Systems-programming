@@ -43,10 +43,7 @@ void maxRand(int a[],int n){
 	            }
 			}	
 		}
-		cout<<"3 So Lon Nhat:"<<endl;
-		cout<<"[";
-		cout<<a[0]<<","<<a[1]<<","<<a[2];	
-		cout<<"]";
+		cout<<"3 So Lon Nhat: "<<a[0]<<","<<a[1]<<","<<a[2];	
 		cout<<endl;
 		cout<<endl;
 		Sleep(1000);
