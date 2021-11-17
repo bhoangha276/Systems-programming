@@ -1,0 +1,16 @@
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.exe
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.deps.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.runtimeconfig.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.runtimeconfig.dev.json
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\ref\CS.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\bin\Debug\net5.0\CS.pdb
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.csprojAssemblyReference.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.AssemblyInfoInputs.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.AssemblyInfo.cs
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.csproj.CoreCompileInputs.cache
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\ref\CS.dll
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.pdb
+D:\A_BaiTap\LapTrinhHeThong\Exercises\SS7\Ex10\CS\obj\Debug\net5.0\CS.genruntimeconfig.cache
